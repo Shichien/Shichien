@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Shichien/Shichien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome To Deralive / Shichien's Home
+### 💬 Connect:
+- 10235101526@stu.ecnu.edu.cn
+- Deralive@163.com
+- 2642136260@qq.com
+### 📫 Social Media:
+- Bilibili: 诗千Shichien
+- Netease Music: 诗千Shichien
+- Zhihu: Shichien
+- Discord: Shichien / deralive_92597
+- Speedrun: Shichien
+### ⚡Achievements:
+- Hollow Knight Path Of Pain 2:00.99  \#16th 
