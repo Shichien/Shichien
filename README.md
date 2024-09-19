@@ -11,3 +11,9 @@
 - Speedrun: Shichien
 ### ⚡Achievements:
 - Hollow Knight Path Of Pain 2:00.99  \#16th 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shichien/Shichien/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shichien/Shichien/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shichien/Shichien/output/github-contribution-grid-snake.svg">
+</picture>
