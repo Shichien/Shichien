@@ -8,9 +8,9 @@
 - Netease Music: 诗千Shichien
 - Zhihu: Shichien
 - Discord: Shichien / deralive_92597
-- Speedrun: Shichien
+- Speedrun: Shichien    
 ### ⚡Achievements:
-- Hollow Knight Path Of Pain 2:00.99  \#16th 
+- Hollow Knight Path Of Pain 1:58.89  \ World 7th 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shichien/Shichien/output/github-contribution-grid-snake-dark.svg">
