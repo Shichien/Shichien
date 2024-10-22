@@ -4,7 +4,7 @@
 - Deralive@163.com
 - 2642136260@qq.com
 ### 📫 Social Media:
-- Bilibili: 诗千Shichien
+- [Bilibili: 诗千Shichien](https://space.bilibili.com/89104559)
 - Netease Music: 诗千Shichien
 - Zhihu: Shichien
 - Discord: Shichien / deralive_92597
