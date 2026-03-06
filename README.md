@@ -12,7 +12,7 @@
 - [Youtube: Deralive / @Deralive0716](https://www.youtube.com/channel/UCCGD1Y4iLYeN5IdWgAp6s7w)
 
 ### ⚡Achievements:   
-- [Hollow Knight Path Of Pain 1:58.89](https://www.youtube.com/watch?v=YaODXPCOGBw)
+- [Hollow Knight Path Of Pain 1:58.53](https://www.youtube.com/watch?v=C6c9X8q-xAU)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shichien/Shichien/output/github-contribution-grid-snake-dark.svg">
