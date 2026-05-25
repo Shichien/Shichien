@@ -1,9 +1,5 @@
 ## Shichien
 
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=Shichien&show_icons=true' width="400px" />
-</a>
-
 [![Bilibili followers](https://img.shields.io/badge/dynamic/json?label=Bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D89104559&suffix=%20followers&logo=bilibili&color=00A1D6)](https://space.bilibili.com/89104559)
 [![NeteaseMusic](https://img.shields.io/badge/dynamic/json?label=NetEase+Music&labelColor=e60026&color=ff3355&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DneteaseMusic%26queryKey%3D1753809509&longCache=true&style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAzdjEwLjU1Yy0uNTktLjM0LTEuMjctLjU1LTItLjU1LTIuMjEgMC00IDEuNzktNCA0czEuNzkgNCA0IDQgNC0xLjc5IDQtNFY3aDRWM2gtNnoiLz48L3N2Zz4=)](https://music.163.com/#/user/home?id=1753809509)
 [![Zhihu](https://img.shields.io/badge/知乎-605-0099ff?labelColor=0084ff&style=flat&logo=zhihu)](https://www.zhihu.com/people/zhe-liu-46-40)
