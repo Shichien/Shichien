@@ -7,7 +7,9 @@
 [![Speedrun](https://img.shields.io/badge/Speedrun-06B6D4?style=flat&logo=speedrun&logoColor=white)](https://www.speedrun.com/users/Shichien)
 [![Email](https://img.shields.io/badge/-deralive@qq.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:deralive_at_qq.com)
 
-I'm focusing on exploring typesetting ecosystems and optimizing the workflow. I enjoy trying new things and tinkering with fascinating technical implementations.
+I'm focusing on exploring typesetting ecosystems and optimizing the workflow.
+
+I enjoy trying new things and tinkering with fascinating technical implementations.
 
 ### ⚡Achievements:   
 - [Hollow Knight Path Of Pain 1:58.53](https://www.youtube.com/watch?v=C6c9X8q-xAU)
